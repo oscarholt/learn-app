@@ -1,4 +1,4 @@
-# A starter webpack project for React with databases
+# An app for tracking your learning in any skill
 
 This is a starter project that uses webpack to transpile and bundle ES6 React code. To use, consider these steps:
 
